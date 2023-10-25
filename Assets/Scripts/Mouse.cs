@@ -3,8 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class Mouse : MonoBehaviour
 {
-    public Color deathColor = Color.black;
-    public Color winColor = Color.red;
+    public string sceneRedirect = "Menu";
 
     void Update()
     {
@@ -15,8 +14,13 @@ public class Mouse : MonoBehaviour
     {
         if (collision.gameObject.name.Contains("Death"))
         {
-            print("died");
-            //SceneManager.LoadScene("Menu");
+            print("DEATH " + sceneRedirect);
+            SceneManager.LoadScene("Menu");
+        }
+        else if (collision.gameObject.name == "Victory")
+        {
+            print("VICTORY " + sceneRedirect);
+            SceneManager.LoadScene(sceneRedirect);
         }
     }
 }
