@@ -1,4 +1,4 @@
 # Scary-Maze
  Booo!
 
-https://play.unity.com/p/builds-vu-7/edit
+https://play.unity.com/mg/other/builds-61-9
