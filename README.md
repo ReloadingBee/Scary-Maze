@@ -9,9 +9,9 @@ Game Controls:
 - USE THE MOUSE to guide the dot through the mazes.
 
 ## The age
-- It’s the only for poople after 16 years old
+- It’s only for people over 16 years old.
 
-The source of scary maze is ,,screamer”and it’s a type of animation, movie or application specifically designed to scare the viewer. The first screamers appeared around 2002. The first screamers appeared in horror movies that were designed to scare a focused viewer. The Scary Maze Game is created by Jerremy Winterrowd and it’s one of the most popular screamer.
+The source of scary maze is "screamer" and it’s a type of animation, movie or application specifically designed to scare the viewer. The first screamers appeared around 2002. The first screamers appeared in horror movies that were designed to scare a focused viewer. The Scary Maze Game is created by Jerremy Winterrowd and it’s one of the most popular screamers.
 
 ## WebGL build
 https://play.unity.com/mg/other/builds-61-9
